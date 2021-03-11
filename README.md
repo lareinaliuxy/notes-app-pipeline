@@ -1,3 +1,14 @@
+# Notes App Client for Serverless Stack Tutorial
+
+This is the repo for the Notes App Client portion of the Serverless Stack tutorial.
+
+The corresponding API repo is at
+https://github.ccs.neu.edu/CS-7680-SEA-Spring2021/XinyiLiu-Serverless-NotesAPI
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
